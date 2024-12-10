@@ -37,6 +37,10 @@ Figure 02  Encoder 8 * 3
 **Procedure**
 
 /* write all the steps invloved */
+1. Open Quartus II and create a new project wizard in it.
+2. Open verilog HDL file and write the code in it and run the program.
+3. Now, download RTL view of the experiment.
+4. Open new University program VWF and download the waveform screenshot
 
 **PROGRAM**
 ```
